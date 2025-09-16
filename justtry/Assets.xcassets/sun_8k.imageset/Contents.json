@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "euvi_aia304_2012_carrington_print.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "euvi_aia304_2012_carrington_print 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "euvi_aia304_2012_carrington_print 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
