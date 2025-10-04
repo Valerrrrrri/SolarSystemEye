@@ -1,2 +1,0 @@
-# SolarSystemEye
-NASA Space Challenge 
